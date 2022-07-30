@@ -2,7 +2,7 @@
 
 ## Description
 
-- This application allow users to a fast and easy way to track their money online and offline. The user will be able to add expenses and deposits to their budget with or without a connection. When the user enters transactions offline, the total will be updated when they're brought back online.
+This application allow users to a fast and easy way to track their money online and offline. The user will be able to add expenses and deposits to their budget with or without a connection. When the user enters transactions offline, the total will be updated when they're brought back online.
 
 ## Technologies Used
 
@@ -26,5 +26,5 @@ https://github.com/GhulamZaka/budget-tracker
 
 ## Screenshots
 
-<img src="public/images/a1">
-<img src="public/images/a1">
+<img src="/public/images/a1.jpg">
+<img src="/public/images/a1.jpg">
