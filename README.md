@@ -27,4 +27,4 @@ https://github.com/GhulamZaka/budget-tracker
 ## Screenshots
 
 <img src="/public/images/a1.jpg">
-<img src="/public/images/a1.jpg">
+<img src="/public/images/a2.jpg">
